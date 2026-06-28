@@ -155,28 +155,45 @@ https://www.tinkercad.com/things/f8T5LlI4fx2-lcd-screenfan-finaldraft?sharecode=
 
 ## 📸 Project Gallery
 
-> Replace these placeholders with your own images.
+### 🔌 Real Circuit
 
-```
-Images/
-├── real_circuit.jpg
-├── tinkercad_circuit.png
-├── safe_mode.jpg
-├── warning_mode.jpg
-└── danger_mode.jpg
-```
+![Real Circuit](Images/real_circuit.png)
 
-Example:
+---
 
-```markdown
-### Real Circuit
+### 💻 Tinkercad Simulation
 
-![Real Circuit](Images/real_circuit.jpg)
+![Tinkercad Simulation](Images/tinkercad_circuit.png)
 
-### Tinkercad Simulation
+---
 
-![Simulation](Images/tinkercad_circuit.png)
-```
+### 🟢 Safe Mode
+
+![Safe Mode](Images/safe_mode.png)
+
+---
+
+### 🟡 Warning Mode
+
+![Warning Mode](Images/warning_mode.png)
+
+---
+
+### 🔴 Danger Mode
+
+![Danger Mode](Images/danger_mode.png)
+
+---
+
+### 📈 Temperature vs Time
+
+![Temperature vs Time](Images/temperature_vs_time.png)
+
+---
+
+### 📊 Fan Speed vs Temperature
+
+![Fan Speed vs Temperature](Images/fan_speed_vs_temperature.png)
 
 ---
 
