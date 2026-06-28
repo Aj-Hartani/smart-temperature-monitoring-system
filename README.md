@@ -147,10 +147,7 @@ void loop() {
 
 The system was first designed and tested in **Tinkercad** to verify the circuit operation before purchasing components and building the physical prototype.
 
-🔗 **Tinkercad Simulation**
-
-https://www.tinkercad.com/things/f8T5LlI4fx2-lcd-screenfan-finaldraft?sharecode=5brvruFZ7L8Hl2oCXlwgCmE1TAaNpYBg8vopqqMrVao
-
+🔗 View the project on **[Tinkercad](https://www.tinkercad.com/things/f8T5LlI4fx2-lcd-screenfan-finaldraft?sharecode=5brvruFZ7L8Hl2oCXlwgCmE1TAaNpYBg8vopqqMrVao)**.
 ---
 
 ## 📸 Project Gallery
